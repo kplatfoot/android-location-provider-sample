@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Location</string>
+  <string name="use_gps">GPS</string>
+  <string name="use_network">Network</string>
+  <string name="use_cached">Cached</string>
+  <string name="minTime">minTime</string>
+  <string name="minDistance">minDistance</string>
+  <string name="start">Start</string>
+  <string name="stop">Stop</string>
+  <string name="location_cached">cached</string>
+  <string name="location_inaccurate">inaccurate</string>
+  <string name="location_old">old</string>
+</resources>
